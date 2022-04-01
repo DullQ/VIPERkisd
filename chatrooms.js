@@ -63,3 +63,6 @@ var firebaseConfig = {
   function Impasta() {
       window.location="actualchat.html";
   }
+function logerout() {
+ window.location="chatrooms.html" 
+}
