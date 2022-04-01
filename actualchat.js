@@ -14,3 +14,7 @@ function send()
       getElementById("POSS3").innerHTML(getElementById(msg));
   }
 }
+
+function logout() {
+ window.location="chatrooms.html" 
+}
